@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw GPT-5.4 Patch"
+  short_description: "Reapply GPT-5.4 support after OpenClaw-CN updates."
+  default_prompt: "Use $openclaw-cn-gpt54-patch to restore GPT-5.4 support in OpenClaw-CN after an update."
